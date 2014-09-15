@@ -44,7 +44,7 @@ public class Solution {
         }
 
         public void printCountdown() throws InterruptedException {
-            //add your code here - добавь код тут
+            //add your code here - добавь код тут!!!
             while (countFrom-- != 0) {
                 Thread.sleep(500);
                 System.out.println(list.get(countFrom));
